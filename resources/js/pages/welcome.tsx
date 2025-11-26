@@ -28,6 +28,8 @@ export default function Welcome({
                             >
                                 Dashboard
                             </Link>
+                            
+                            
                         ) : (
                             <>
                                 <Link
